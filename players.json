@@ -1,0 +1,726 @@
+{
+  "Bojan Bogdanovic": {
+    "Points": {
+      "17.5": "Normal",
+      "14.5": "Goblin"
+    },
+    "Pts+Rebs+Asts": {
+      "23.5": "Normal"
+    },
+    "Rebounds": {
+      "4.5": "Demon"
+    },
+    "Assists": {
+      "2.5": "Demon"
+    },
+    "3-PT Made": {
+      "2.5": "Normal",
+      "1.5": "Goblin",
+      "3.5": "Demon"
+    },
+    "Pts+Rebs": {
+      "20.5": "Normal"
+    },
+    "Pts+Asts": {
+      "19.5": "Normal"
+    },
+    "Blocked Shots": {
+      "0.5": "Demon"
+    },
+    "Steals": {
+      "1.5": "Demon"
+    },
+    "Turnovers": {
+      "2.5": "Normal"
+    }
+  },
+  "Bradley Beal": {
+    "Points": {
+      "19.5": "Normal",
+      "14.5": "Goblin",
+      "24.5": "Demon"
+    },
+    "Rebounds": {
+      "5.0": "Normal",
+      "6.5": "Demon",
+      "3.5": "Goblin"
+    },
+    "Pts+Rebs+Asts": {
+      "30.0": "Normal",
+      "24.5": "Goblin",
+      "34.5": "Demon"
+    },
+    "Assists": {
+      "5.0": "Normal",
+      "3.5": "Goblin",
+      "6.5": "Demon"
+    },
+    "3-PT Made": {
+      "1.5": "Normal",
+      "2.5": "Demon"
+    },
+    "Pts+Rebs": {
+      "24.5": "Normal"
+    },
+    "Pts+Asts": {
+      "24.5": "Normal"
+    },
+    "Steals": {
+      "0.5": "Goblin",
+      "1.5": "Demon"
+    },
+    "Rebs+Asts": {
+      "10.0": "Normal"
+    },
+    "Turnovers": {
+      "2.5": "Normal"
+    }
+  },
+  "Cade Cunningham": {
+    "Points": {
+      "20.5": "Normal",
+      "24.5": "Demon"
+    },
+    "Pts+Rebs+Asts": {
+      "31.5": "Normal"
+    },
+    "Assists": {
+      "7.0": "Normal",
+      "5.5": "Goblin"
+    },
+    "3-PT Made": {
+      "0.5": "Goblin"
+    },
+    "Pts+Rebs": {
+      "24.5": "Normal"
+    },
+    "Pts+Asts": {
+      "27.5": "Normal"
+    },
+    "Rebs+Asts": {
+      "10.5": "Normal"
+    },
+    "Blks+Stls": {
+      "1.5": "Normal"
+    }
+  },
+  "Daniel Gafford": {
+    "Points": {
+      "12.5": "Normal",
+      "9.5": "Goblin",
+      "17.5": "Demon"
+    },
+    "Rebounds": {
+      "9.5": "Normal",
+      "7.5": "Goblin"
+    },
+    "Pts+Rebs+Asts": {
+      "24.5": "Normal"
+    },
+    "Assists": {
+      "0.5": "Goblin",
+      "2.5": "Demon"
+    },
+    "Pts+Rebs": {
+      "22.5": "Normal"
+    },
+    "Pts+Asts": {
+      "14.5": "Normal"
+    },
+    "Blocked Shots": {
+      "2.5": "Demon",
+      "0.5": "Goblin"
+    },
+    "Steals": {
+      "0.5": "Goblin",
+      "1.5": "Demon"
+    },
+    "Rebs+Asts": {
+      "11.5": "Normal"
+    },
+    "Turnovers": {
+      "1.5": "Demon"
+    }
+  },
+  "Deni Avdija": {
+    "Points": {
+      "16.5": "Normal",
+      "11.5": "Goblin",
+      "19.5": "Demon"
+    },
+    "Rebounds": {
+      "7.5": "Normal",
+      "5.5": "Goblin",
+      "9.5": "Demon"
+    },
+    "Pts+Rebs+Asts": {
+      "29.5": "Normal",
+      "24.5": "Goblin",
+      "34.5": "Demon"
+    },
+    "Assists": {
+      "5.0": "Normal",
+      "3.5": "Goblin"
+    },
+    "3-PT Made": {
+      "0.5": "Goblin",
+      "1.5": "Demon"
+    },
+    "Pts+Rebs": {
+      "24.5": "Normal"
+    },
+    "Pts+Asts": {
+      "21.5": "Normal"
+    },
+    "Steals": {
+      "0.5": "Goblin",
+      "1.5": "Demon"
+    },
+    "Rebs+Asts": {
+      "12.5": "Normal"
+    },
+    "Blks+Stls": {
+      "1.5": "Normal"
+    },
+    "Turnovers": {
+      "2.5": "Normal"
+    }
+  },
+  "Devin Booker": {
+    "Points": {
+      "28.0": "Normal",
+      "24.5": "Goblin",
+      "34.5": "Demon"
+    },
+    "Rebounds": {
+      "5.0": "Normal",
+      "3.5": "Goblin",
+      "5.5": "Demon"
+    },
+    "Pts+Rebs+Asts": {
+      "39.0": "Normal",
+      "34.5": "Goblin",
+      "49.5": "Demon"
+    },
+    "Assists": {
+      "6.0": "Normal",
+      "4.5": "Goblin",
+      "7.5": "Demon"
+    },
+    "3-PT Made": {
+      "1.5": "Goblin",
+      "3.5": "Demon"
+    },
+    "Pts+Rebs": {
+      "32.5": "Normal"
+    },
+    "Pts+Asts": {
+      "34.5": "Normal"
+    },
+    "Steals": {
+      "1.5": "Demon"
+    },
+    "Rebs+Asts": {
+      "10.5": "Normal"
+    },
+    "Blks+Stls": {
+      "1.5": "Normal"
+    },
+    "Turnovers": {
+      "2.5": "Normal"
+    }
+  },
+  "Franz Wagner": {
+    "Points": {
+      "20.0": "Normal",
+      "14.5": "Goblin",
+      "24.5": "Demon"
+    },
+    "Rebounds": {
+      "5.0": "Normal",
+      "3.5": "Goblin",
+      "6.5": "Demon"
+    },
+    "Pts+Rebs+Asts": {
+      "29.5": "Normal"
+    },
+    "Assists": {
+      "4.5": "Normal",
+      "3.5": "Goblin",
+      "6.5": "Demon"
+    },
+    "Pts+Rebs": {
+      "24.5": "Normal"
+    },
+    "Pts+Asts": {
+      "24.5": "Normal"
+    },
+    "Steals": {
+      "0.5": "Goblin"
+    },
+    "Rebs+Asts": {
+      "9.5": "Normal"
+    },
+    "Blks+Stls": {
+      "1.5": "Normal"
+    }
+  },
+  "Grayson Allen": {
+    "Points": {
+      "11.5": "Normal",
+      "14.5": "Demon",
+      "7.5": "Goblin",
+      "13.5": "Demon"
+    },
+    "Pts+Rebs+Asts": {
+      "17.5": "Normal",
+      "13.5": "Goblin",
+      "21.5": "Demon"
+    },
+    "Rebounds": {
+      "5.5": "Demon"
+    },
+    "Assists": {
+      "2.5": "Normal",
+      "1.5": "Goblin",
+      "3.5": "Demon"
+    },
+    "3-PT Made": {
+      "1.5": "Goblin",
+      "2.5": "Demon"
+    },
+    "Pts+Rebs": {
+      "15.5": "Normal"
+    },
+    "Pts+Asts": {
+      "13.5": "Normal"
+    },
+    "Blocked Shots": {
+      "1.5": "Demon"
+    },
+    "Steals": {
+      "1.5": "Demon"
+    }
+  },
+  "Jaden Ivey": {
+    "Points": {
+      "14.5": "Normal",
+      "19.5": "Demon"
+    },
+    "Pts+Rebs+Asts": {
+      "22.0": "Normal"
+    },
+    "Rebounds": {
+      "2.5": "Goblin",
+      "5.5": "Demon"
+    },
+    "3-PT Made": {
+      "0.5": "Goblin"
+    },
+    "Pts+Rebs": {
+      "18.5": "Normal"
+    },
+    "Pts+Asts": {
+      "17.5": "Normal"
+    },
+    "Steals": {
+      "0.5": "Normal"
+    },
+    "Rebs+Asts": {
+      "7.5": "Normal"
+    },
+    "Turnovers": {
+      "2.5": "Normal"
+    }
+  },
+  "Jalen Duren": {
+    "Points": {
+      "12.5": "Normal"
+    },
+    "Rebounds": {
+      "11.5": "Normal",
+      "14.5": "Demon"
+    },
+    "Pts+Rebs+Asts": {
+      "26.0": "Normal"
+    },
+    "Pts+Rebs": {
+      "24.0": "Normal"
+    },
+    "Pts+Asts": {
+      "14.5": "Normal"
+    },
+    "Rebs+Asts": {
+      "13.5": "Normal"
+    },
+    "Turnovers": {
+      "1.5": "Normal"
+    }
+  },
+  "Jalen Suggs": {
+    "Points": {
+      "11.5": "Normal",
+      "14.5": "Demon"
+    },
+    "Rebounds": {
+      "3.5": "Normal",
+      "2.5": "Goblin",
+      "5.5": "Demon"
+    },
+    "Pts+Rebs+Asts": {
+      "17.5": "Normal"
+    },
+    "Assists": {
+      "3.5": "Demon"
+    },
+    "Pts+Rebs": {
+      "15.5": "Normal"
+    },
+    "Pts+Asts": {
+      "13.5": "Normal"
+    }
+  },
+  "Jayson Tatum": {
+    "Points": {
+      "26.0": "Normal",
+      "19.5": "Goblin",
+      "29.5": "Demon"
+    },
+    "Rebounds": {
+      "8.5": "Normal",
+      "10.5": "Demon",
+      "6.5": "Goblin"
+    },
+    "Pts+Rebs+Asts": {
+      "38.5": "Normal",
+      "34.5": "Goblin",
+      "49.5": "Demon"
+    },
+    "Assists": {
+      "4.5": "Normal",
+      "3.5": "Goblin",
+      "6.5": "Demon"
+    },
+    "3-PT Made": {
+      "4.5": "Demon"
+    },
+    "Pts+Rebs": {
+      "34.5": "Normal"
+    },
+    "Pts+Asts": {
+      "30.5": "Normal"
+    },
+    "Blocked Shots": {
+      "0.5": "Normal"
+    },
+    "Steals": {
+      "0.5": "Goblin",
+      "1.5": "Demon"
+    },
+    "Rebs+Asts": {
+      "13.0": "Normal"
+    },
+    "Blks+Stls": {
+      "1.5": "Normal"
+    }
+  },
+  "Jordan Poole": {
+    "Points": {
+      "22.0": "Normal",
+      "29.5": "Demon",
+      "17.5": "Goblin"
+    },
+    "Rebounds": {
+      "2.5": "Normal",
+      "1.5": "Goblin",
+      "3.5": "Demon"
+    },
+    "Pts+Rebs+Asts": {
+      "28.5": "Normal",
+      "21.5": "Goblin",
+      "34.5": "Demon"
+    },
+    "Assists": {
+      "3.5": "Normal",
+      "2.5": "Goblin",
+      "4.5": "Demon"
+    },
+    "3-PT Made": {
+      "2.5": "Normal",
+      "1.5": "Goblin",
+      "3.5": "Demon"
+    },
+    "Pts+Rebs": {
+      "24.5": "Normal"
+    },
+    "Pts+Asts": {
+      "25.5": "Normal"
+    },
+    "Steals": {
+      "0.5": "Goblin",
+      "1.5": "Demon"
+    },
+    "Blks+Stls": {
+      "1.5": "Normal"
+    }
+  },
+  "Jusuf Nurkic": {
+    "Points": {
+      "12.5": "Normal",
+      "9.5": "Goblin",
+      "14.5": "Demon"
+    },
+    "Rebounds": {
+      "11.0": "Normal",
+      "8.5": "Goblin",
+      "13.5": "Demon"
+    },
+    "Pts+Rebs+Asts": {
+      "26.5": "Normal",
+      "21.5": "Goblin",
+      "29.5": "Demon"
+    },
+    "Pts+Rebs": {
+      "23.5": "Normal"
+    },
+    "Pts+Asts": {
+      "15.5": "Normal"
+    },
+    "Blocked Shots": {
+      "1.5": "Demon"
+    },
+    "Steals": {
+      "0.5": "Goblin",
+      "1.5": "Demon"
+    },
+    "Rebs+Asts": {
+      "14.0": "Normal"
+    },
+    "Turnovers": {
+      "1.5": "Normal"
+    }
+  },
+  "Kevin Durant": {
+    "Points": {
+      "26.5": "Normal",
+      "23.5": "Goblin",
+      "29.5": "Demon"
+    },
+    "Rebounds": {
+      "6.5": "Normal",
+      "5.5": "Goblin",
+      "8.5": "Demon"
+    },
+    "Pts+Rebs+Asts": {
+      "38.5": "Normal",
+      "34.5": "Goblin",
+      "44.5": "Demon"
+    },
+    "Assists": {
+      "5.5": "Normal",
+      "4.5": "Goblin",
+      "7.5": "Demon"
+    },
+    "3-PT Made": {
+      "1.5": "Goblin",
+      "3.5": "Demon"
+    },
+    "Pts+Rebs": {
+      "33.5": "Normal"
+    },
+    "Pts+Asts": {
+      "31.5": "Normal"
+    },
+    "Blocked Shots": {
+      "1.5": "Normal",
+      "0.5": "Goblin",
+      "2.5": "Demon"
+    },
+    "Steals": {
+      "0.5": "Goblin"
+    },
+    "Rebs+Asts": {
+      "12.5": "Normal"
+    },
+    "Blks+Stls": {
+      "2.5": "Normal"
+    }
+  },
+  "Kristaps Porzingis": {
+    "Points": {
+      "18.5": "Normal",
+      "24.5": "Demon",
+      "14.5": "Goblin"
+    },
+    "Pts+Rebs+Asts": {
+      "28.5": "Normal"
+    },
+    "Rebounds": {
+      "7.5": "Normal",
+      "9.5": "Demon",
+      "5.5": "Goblin"
+    },
+    "Assists": {
+      "3.5": "Demon",
+      "1.5": "Goblin"
+    },
+    "3-PT Made": {
+      "2.5": "Demon"
+    },
+    "Pts+Rebs": {
+      "26.0": "Normal"
+    },
+    "Pts+Asts": {
+      "20.5": "Normal"
+    },
+    "Blocked Shots": {
+      "2.5": "Demon"
+    },
+    "Steals": {
+      "0.5": "Normal",
+      "1.5": "Demon"
+    },
+    "Rebs+Asts": {
+      "9.5": "Normal"
+    },
+    "Blks+Stls": {
+      "2.5": "Normal"
+    },
+    "Turnovers": {
+      "1.5": "Normal"
+    }
+  },
+  "Markelle Fultz": {
+    "Points": {
+      "11.5": "Normal",
+      "14.5": "Demon"
+    },
+    "Pts+Rebs+Asts": {
+      "18.5": "Normal"
+    },
+    "Rebounds": {
+      "1.5": "Goblin",
+      "4.5": "Demon"
+    },
+    "Assists": {
+      "2.5": "Goblin"
+    },
+    "Pts+Rebs": {
+      "14.5": "Normal"
+    },
+    "Pts+Asts": {
+      "15.5": "Normal"
+    },
+    "Steals": {
+      "1.5": "Normal",
+      "2.5": "Demon"
+    }
+  },
+  "Paolo Banchero": {
+    "Points": {
+      "26.5": "Normal"
+    },
+    "Rebounds": {
+      "7.0": "Normal",
+      "5.5": "Goblin",
+      "9.5": "Demon"
+    },
+    "Pts+Rebs+Asts": {
+      "39.0": "Normal"
+    },
+    "Assists": {
+      "5.0": "Normal",
+      "3.5": "Goblin",
+      "6.5": "Demon"
+    },
+    "3-PT Made": {
+      "1.5": "Normal",
+      "2.5": "Demon"
+    },
+    "Pts+Rebs": {
+      "34.5": "Normal"
+    },
+    "Pts+Asts": {
+      "31.5": "Normal"
+    },
+    "Steals": {
+      "1.5": "Normal",
+      "0.5": "Goblin"
+    },
+    "Rebs+Asts": {
+      "12.5": "Normal"
+    },
+    "Turnovers": {
+      "2.5": "Normal"
+    }
+  },
+  "Tyus Jones": {
+    "Points": {
+      "13.5": "Normal",
+      "19.5": "Demon",
+      "9.5": "Goblin"
+    },
+    "Pts+Rebs+Asts": {
+      "25.5": "Normal",
+      "19.5": "Goblin",
+      "29.5": "Demon"
+    },
+    "Rebounds": {
+      "1.5": "Goblin",
+      "3.5": "Demon"
+    },
+    "Assists": {
+      "8.5": "Normal",
+      "7.5": "Goblin",
+      "9.5": "Demon"
+    },
+    "3-PT Made": {
+      "1.5": "Normal",
+      "2.5": "Demon"
+    },
+    "Pts+Rebs": {
+      "17.5": "Normal"
+    },
+    "Pts+Asts": {
+      "22.5": "Normal"
+    },
+    "Rebs+Asts": {
+      "11.5": "Normal"
+    },
+    "Blks+Stls": {
+      "1.5": "Normal"
+    }
+  },
+  "Wendell Carter Jr.": {
+    "Points": {
+      "13.5": "Normal",
+      "9.5": "Goblin"
+    },
+    "Pts+Rebs+Asts": {
+      "23.5": "Normal"
+    },
+    "Rebounds": {
+      "6.5": "Goblin",
+      "10.5": "Demon"
+    },
+    "Assists": {
+      "0.5": "Goblin",
+      "2.5": "Demon"
+    },
+    "Pts+Rebs": {
+      "21.5": "Normal"
+    },
+    "Pts+Asts": {
+      "15.5": "Normal"
+    },
+    "Blocked Shots": {
+      "1.5": "Demon"
+    },
+    "Steals": {
+      "0.5": "Normal"
+    },
+    "Rebs+Asts": {
+      "10.5": "Normal"
+    }
+  }
+}
